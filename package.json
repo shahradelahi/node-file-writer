@@ -1,6 +1,6 @@
 {
   "name": "@se-oss/file-writer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Fast, atomic async file writer with automatic retries and race-condition protection.",
   "keywords": [
     "fs",
